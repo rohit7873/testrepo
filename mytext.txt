@@ -3,5 +3,6 @@ public class calculation
  public static void main()
 {
 Sysout("hii rohit you are working on git")
+Sysout("working fucking planning on the life");
 }
 }
